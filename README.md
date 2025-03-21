@@ -102,12 +102,13 @@ sample_code_コメントアウト\
 
 
 ### 長崎県立大学大学院 地域社会マネジメント研究科 ビジネス・マネジメント専攻（修士）
-- 在籍期間：勤務しながら夜間講座を受講（3年間・佐世保市役所推薦による無料受講）
+- 在籍期間：2021年4月〜2024年3月 勤務しながら夜間講座を受講（3年間・佐世保市役所推薦による無料受講）
 - 職務との調整や工学系バックグラウンドのため、当初は4年間の受講を希望したが、3年間で修了。
 - 修士論文：「スマートシティにおける様々な議論」
 - 学会発表を3回実施（うち国際発表1回）
 - 取得単位数：32単位（GPA 4.0）
-- [長崎県立大学大学院成績＿＿リンク張りなおし予定＿未スキャン](https://drive.google.com/file/d/1104HAC78ccCcu9FGjUWU5GA3vg6GWEwp/view?usp=sharing)
+- [長崎県立大学大学院修了書](https://drive.google.com/file/d/1ja4cvhpFhMJxShcVfN9pft7IhjzM8Tgv/view?usp=sharing)  
+- [長崎県立大学大学院成績書](https://drive.google.com/file/d/1jaFkNR1joJ3_3RTRUvttN8HlzlJ_B3e7/view?usp=sharing)
 
 ## プロジェクト（Projects）
 
