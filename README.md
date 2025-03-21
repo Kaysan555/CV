@@ -1,6 +1,8 @@
 # 職務経歴書
 <div class="container"><div class="header"><img src="https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652847198667?e=1746662400&amp;v=beta&amp;t=VfsR9zJc6jYzQtg3SYPzwPxlgLewbZ5ATgW-Q0pC-t4" width="210" height="210"　style="border: 10px red solid;" alt="プロフィール写真" >
 
+Name:Kay Vincent Morokuni
+
 ## 基本情報
 ### 見出し (Headline)  
 ・地理空間情報システム（GIS）の利活用推進および市役所内におけるルール策定担当  
