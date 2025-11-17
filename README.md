@@ -1,5 +1,5 @@
 # 職務経歴書
-<div class="container"><div class="header"><img src="https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652847198667?e=1746662400&amp;v=beta&amp;t=VfsR9zJc6jYzQtg3SYPzwPxlgLewbZ5ATgW-Q0pC-t4" width="210" height="210"　style="border: 10px red solid;" alt="プロフィール写真" >
+<div class="container"><div class="header"><img src="[https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652847198667?e=1746662400&amp;v=beta&amp;t=VfsR9zJc6jYzQtg3SYPzwPxlgLewbZ5ATgW-Q0pC-t4" width="210" height="210"　style="border: 10px red solid](https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1652847198667?e=1764806400&v=beta&t=wHZAoGytK9Gs9ultAD2gw1_LGfijq7osuwyaF7K_fww);" alt="プロフィール写真" >
 
 Name:Kay Vincent Morokuni
 
@@ -40,6 +40,7 @@ sample_code_コメントアウト\
 ディープラーニングに関しては、入門的な内容ではありますが、画像生成AI向けのデータ整理を経験しました。オープンデータを利用して顔写真データを整理した経験から、機械学習向けデータセット構築のコストや難しさを認識しました。個人的には機械学習を活用した不動産売買の効率化を検討したこともあります。具体的にはStanford OnlineのMachine Learning Specialization（一部）やYouTube講座の視聴、TensorFlowの基礎学習、その他関連してBIツールの活用、画像生成AIを用いた画像アレンジ生成などの学習を行いました。  
 -YouTube講座例：https://www.youtube.com/@imanyu_programming/videos　　
 衛星データの勉強会では教師有り学習のデータや教師無し学習（グルーピング）の内容について教師有り学習データの結果の方が良い結果が出やすいが、教師無し学習の方がクイックに物事に挑戦できるなどの内容を確認しました。
+2025年11月にGenerative AI Leader のgoogleコース受講完了。
 
 語学力に関しては、国際学会で英語による発表経験があり、議論にも参加しました。また米軍基地勤務の米国人向け賃貸借契約や物件管理（運用8年目）を通じて実用的なコミュニケーションの経験を積みました。さらに米軍関連NPO団体（USO）のボランティア活動を通じて、米軍兵士向け地域ニーズ調査や情報提供媒体の研究にも取り組んでいます。  
 ※５月に入居者が退去予定なので現在やり取りを実行してます。
@@ -185,7 +186,6 @@ sample_code_コメントアウト\
 - 長崎県立大学での講義２回(市民参加論におけるDXの考え方)
 - 登壇：第１回デッカイギ[共創PF](https://www.digital.go.jp/get-involved/co-creation-platform/)利用の心構え。（オープンイノベーションフレームワークができる場所として利用するには？）
 - お祭りの実行委員（[第２回デッカイギ](https://www.dekaigi.org/)）
-- 日経ＢＰ読者サービスセンター主催自治体DXフォーラム登壇予定
 - The Civic Hacker Summit登壇（The Civic Hacker Network主催、基本言語英語）
 - 副業スタートアップチャレンジ（空中分解済み）、アスパラガス自動栽培装置のセンサー・制御部・BIダッシュボード・制御部設計及び回路基板設計・データベースサーバー作成・CityOS(Fiware)と連携を模索等
 - スタートアップウィークエンド佐世保第1回優勝 (筋肉トレーニング時のボーン・姿勢マスターデータ流通及びその販売について。長崎新聞に掲載)
@@ -193,8 +193,6 @@ sample_code_コメントアウト\
 - 性格診断(MBTI)テスト：外面INTP倫理学者タイプとして振る舞っているという診断、内面ENTJ指揮官タイプとして考えるという診断
   
 ### 抽象的な現在の仕事内容要約
-職場に渦巻く怨念をITで払うお仕事です。
+職場に渦巻く怨念（課題・問題）を払うお仕事です。
 
-### 好きな漫画（Favorite Manga）
-私が最も好きな漫画は『ゲッターロボシリーズ』です。
 
