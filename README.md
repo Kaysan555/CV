@@ -1,5 +1,5 @@
 # 職務経歴書
-<div class="container"><div class="header"><img src="https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1652847198667?e=1770854400&v=beta&t=nE91tDRz17ntum1Tz9yRQuFSGEhnnuPmj5sBFg-RzWc" alt="プロフィール写真" >
+<div class="container"><div class="header"><img src="[https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1652847198667?e=1770854400&v=beta&t=nE91tDRz17ntum1Tz9yRQuFSGEhnnuPmj5sBFg-RzWc](https://media.licdn.com/dms/image/v2/C4D03AQGl0j0MXtAROw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1652847198667?e=1772668800&v=beta&t=qyKT1hmdoWzdCXy6XgWZuk-6PknnQ58hc-s-5NOHd0I)" alt="プロフィール写真" >
 
 Name:Kay Vincent Morokuni
 
